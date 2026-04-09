@@ -14,3 +14,5 @@ This project implements adaptive noise cancellation using the Least Mean Squares
 
 ## Tools Used
 - MATLAB
+## Output
+![Output](output.png)
