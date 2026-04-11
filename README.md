@@ -9,8 +9,13 @@ This project demonstrates adaptive noise cancellation using the Least Mean Squar
 ### Description
 A sinusoidal signal is corrupted with noise and filtered using LMS.
 
-### Output Plot
-![Basic LMS](basic_lms.png)
+### Output Plots
+
+#### Basic LMS Output 1
+![LMS Output 1](lms_op1.png)
+
+#### Basic LMS Output 2
+![LMS Output 2](lms_op2.png)
 
 ### Observation
 - LMS reduces noise gradually
